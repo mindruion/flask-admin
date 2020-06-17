@@ -1,4 +1,9 @@
 /* List View - fix trash icon inside table column */
+
+#admin-navbar-collapse {
+    color: grey;
+}
+
 .model-list form.icon {
     display: inline;
 }
